@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lab 4: Binary Logistic Regression"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: show
+    code-tools: true
+
+execute:
+  echo: true
+  warning: false
+  message: false
